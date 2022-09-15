@@ -32,6 +32,7 @@ The beauty of this solution is the number of times it loops is equal to the numb
 
 ### Pseudocode
 
+```
 Initialize count: = 0
    If integer n is not zero
       (a) Do bitwise & with (n-1)
@@ -41,7 +42,7 @@ Initialize count: = 0
       (b) Increment count by 1
       (c) go to step 2
    Else return count
-
+```
 
 
 ## Project Templates
